@@ -1,0 +1,23 @@
+!!Yarisma Basladi!!
+
+Yarismaci 30. metreye kadar hicbir engelle karsilasmadi.
+30. metrede bir engel var. 100 ile 30 aralarinda asal degildir.
+Yarismaci hp 100
+
+Yarismaci 33. metreye kadar hicbir engelle karsilasmadi.
+33. metrede bir engel var. 100 ile 33 aralarinda asaldir.
+Yarismaci hp 67 
+
+Yarismaci 43. metreye kadar hicbir engelle karsilasmadi.
+43. metrede bir engel var. 67 ile 43 aralarinda asaldir.
+Yarismaci hp 24 
+
+Yarismaci 44. metreye kadar hicbir engelle karsilasmadi.
+44. metrede bir engel var. 24 ile 44 aralarinda asal degildir.
+Yarismaci hp 24
+
+Yarismaci 60. metreye kadar hicbir engelle karsilasmadi.
+60. metrede bir engel var. 24 ile 60 aralarinda asal degildir.
+Yarismaci hp 24
+
+!!TEBRIKLER!! Yarismayi 24 hp ile bitirdiniz!!

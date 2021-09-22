@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591388248 source:c:\users\eray duman\desktop\yazilim\proje surv›vor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
